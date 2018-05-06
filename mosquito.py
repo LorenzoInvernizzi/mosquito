@@ -3,6 +3,8 @@ from core.engine import Engine
 
 
 def main():
+
+    print(args)
     engine = Engine()
     engine.run()
 
